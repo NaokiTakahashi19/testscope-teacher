@@ -4,3 +4,5 @@
 .irt-comparison{display:grid;grid-template-columns:1fr;gap:8px}.irt-comparison span{display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:14px}.irt-comparison b{flex-shrink:0;font-size:22px}
 
 .trend-scroll{overflow-x:auto;max-width:100%;overscroll-behavior-x:contain}.trend-scroll svg{display:block;height:auto;max-height:340px}.trend-scroll svg text{font-family:inherit;font-size:13px}.trend-scroll table th,.trend-scroll table td{white-space:nowrap}.trend-scroll:focus-visible{outline:2px solid #087f83;outline-offset:3px}
+
+.viewtabs{height:auto!important;min-height:43px;flex-wrap:wrap;row-gap:4px!important}@media(max-width:480px){.viewtabs{column-gap:16px!important}.viewtabs [data-slot=tabs-trigger]{font-size:14px}}
