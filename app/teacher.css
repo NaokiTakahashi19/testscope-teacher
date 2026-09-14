@@ -6,3 +6,5 @@
 .trend-scroll{overflow-x:auto;max-width:100%;overscroll-behavior-x:contain}.trend-scroll svg{display:block;height:auto;max-height:340px}.trend-scroll svg text{font-family:inherit;font-size:13px}.trend-scroll table th,.trend-scroll table td{white-space:nowrap}.trend-scroll:focus-visible{outline:2px solid #087f83;outline-offset:3px}
 
 .viewtabs{height:auto!important;min-height:43px;flex-wrap:wrap;row-gap:4px!important}@media(max-width:480px){.viewtabs{column-gap:16px!important}.viewtabs [data-slot=tabs-trigger]{font-size:14px}}
+
+.answercard.answer-wrong{background:#fff1f4;border-color:#edb9c5}.answercard.answer-wrong>.between>span{color:#9c304b;font-weight:700}.answercard.answer-wrong>.callout{background:#fff8fa;border-color:#efd2da;color:#72515c}.answercard.answer-correct{background:#fff}.answercard.answer-correct>.between>span{color:#08777b;font-weight:600}.answercard.answer-blank{background:#f4f6f8}.answercard.answer-blank>.between>span{color:#596b78;font-weight:600}
