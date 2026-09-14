@@ -21,3 +21,5 @@
 .student-visuals .chips{margin-top:12px}
 
 .student-overview{background:#edf7f6;border:1px solid #cce3e0;border-radius:9px;padding:20px 24px;margin:16px 0}.student-overview>div+div{margin-top:16px;padding-top:14px;border-top:1px solid #cfe2e0}.student-overview p{font-size:15px;line-height:1.9;margin:8px 0;color:#365b68}
+
+.student-question-table{min-width:1080px;width:100%}.student-question-table th{white-space:nowrap}.student-question-table td:nth-child(3){min-width:250px}.student-result-badge{display:inline-block;white-space:nowrap;padding:4px 8px;border-radius:5px;font-size:14px}.result-correct{background:#dceff9;color:#244f68}.result-wrong{background:#fce4ec;color:#793348}.result-blank{background:#fff;border:1px solid #ccd7de;color:#526975}
