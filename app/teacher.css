@@ -31,3 +31,5 @@
 .card,.card details{min-width:0}.trend-results-table{width:100%;min-width:0;overflow-x:auto;scrollbar-width:auto;padding-bottom:10px}.trend-results-table table{min-width:1280px;width:100%}.trend-results-table::-webkit-scrollbar{height:10px}.trend-results-table::-webkit-scrollbar-track{background:#edf2f6;border-radius:5px}.trend-results-table::-webkit-scrollbar-thumb{background:#9bb3bf;border-radius:5px}
 
 .card.tablecard.results-scroll{display:block;width:100%;max-width:100%;min-width:0;overflow-x:auto!important;padding-bottom:10px;scrollbar-width:auto}.results-scroll table{width:max-content;min-width:100%}.results-scroll th,.results-scroll td{white-space:nowrap}.results-scroll::-webkit-scrollbar{height:10px}.results-scroll::-webkit-scrollbar-track{background:#edf2f6;border-radius:5px}.results-scroll::-webkit-scrollbar-thumb{background:#9bb3bf;border-radius:5px}.results-scroll:focus-visible{outline:2px solid #087f83;outline-offset:2px}
+
+.card.tablecard.item-results-scroll{overflow-x:scroll!important}.item-results-scroll table{min-width:1500px}.item-results-scroll td:nth-child(2){min-width:340px}
