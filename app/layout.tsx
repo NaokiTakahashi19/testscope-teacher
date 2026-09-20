@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Testscope | 先生向け分析',
+  title: 'Knowledge Scape | 先生向け分析',
   description: '先生向け 学習段階と指導方針の検討用モック',
 };
 
