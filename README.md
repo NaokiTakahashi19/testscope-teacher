@@ -44,3 +44,7 @@ AI・OCR・LRTの本番処理、認証・権限管理、データ保存、外部
 
 GitHubへのpushと画面の公開更新は別の操作です。このリポジトリには自動公開の設定はありません。
 `.openai/hosting.json` は既存画面の公開先を識別する設定です。
+
+## GP分析
+問題別の「GP分析」と問題詳細で、選択範囲の総得点による上位・下位各27%の正答率を比較します。人数は切り捨て（最低1人）、境界の同点者は全員含み、両群が重なる場合は計算しません。総得点は当該問題を含み、未回答は正答率の分母に含みます。問題フィルターで群は変わりません。全受験者のGP集計と選択肢別回答は未提供のため表示しません。全受験者の全体正答率は既存の集計値です。
+参考：[Shenandoah University, Quick Reference Guide to Item Analysis](https://www.su.edu/academics/files/2015/05/Quick-Reference-Guide-to-Item-Analysis.pdf)
